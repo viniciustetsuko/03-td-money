@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-08-16T12:45:45.907Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "alimentção",
+      "price": 50,
+      "createdAt": "2023-08-16T12:30:45.907Z"
+    },
+    {
+      "id": 3,
+      "description": "Belly",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 1000,
+      "createdAt": "2023-08-16T12:08:45.907Z"
+    },
+    {
+      "description": "Ilustração",
+      "price": 5000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-08-25T12:58:25.200Z",
+      "id": 4
+    },
+    {
+      "description": "Mangá de Jujutsu",
+      "price": 55,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2023-08-25T13:21:43.924Z",
+      "id": 5
+    }
+  ]
+}
